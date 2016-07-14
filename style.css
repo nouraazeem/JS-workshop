@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	background: ghostwhite;
+}
+div.image {
+	max-width: 800px;
+	margin: 0 auto;
+}
+div.image img {
+	width: 100%;
+}
+div.buttons {
+	margin-top: 30px;
+}
